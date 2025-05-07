@@ -18,6 +18,10 @@ export REQUEST_FORWARDER_BROKER=<your custom server ip/host>
 export REQUEST_FORWARDER_MODE=<anything except 'exec' will just print the request>
 ```
 
+## Run
+```sh
+request-forwarder-client
+```
 
 ## License
 This project is licensed under the Apache 2.0 license. See the [LICENSE](LICENSE) file for details.
