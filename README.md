@@ -4,7 +4,7 @@ A lightweight client for receiving and executing requests from request forwarder
 
 ## Installation
 ```sh
-pip install request-forwarder-client
+pipx install request-forwarder-client
 ```
 
 Mandatory OS variable:
